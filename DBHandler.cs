@@ -11,7 +11,6 @@ namespace MetalappsAutomation  //DO NOT change the namespace name
     {
         //Implement the methods as per the description
         
-        //new SalesDetails(obj.salesId)
 
     }
 
